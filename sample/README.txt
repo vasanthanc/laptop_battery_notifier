@@ -1,4 +1,1 @@
-This program may protect your laptop battery by giving alert when battery 
-is full as well as if battery battery percent goes to below some amount.
-
-If you run this program through cron one minute once, it will give you awesome output.
+Store this file in some location and create this program as a startup apllication, then you will get notification when plugin, plug-out, if battery full or lesser than 30%.
